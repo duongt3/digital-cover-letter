@@ -91,7 +91,7 @@ content:
   - title: Skills and Proficiency
     layout: list
     content: 
-      - **Machine Learning Frameworks** PyTorch, Sklearn, Keras, Tensorflow
+      - "Machine Learning Frameworks: PyTorch, Sklearn, Keras, Tensorflow"
       - "Programming Languages: Python, C++, Java"
       - 
 # Footer
