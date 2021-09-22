@@ -82,9 +82,8 @@ content:
           Description of qualification
       - layout: top-right
         title: Rowan University
-        sub_title: |
-          B.S. Electrical and Computer Engineering 
-          Minor in Computer Science
+        sub_title: B.S. Electrical and Computer Engineering 
+        sub_sub_title: Minor in Computer Science
         caption: 2016 - 2020
         description: | # this will include new lines to allow paragraphs
           Description of qualification
