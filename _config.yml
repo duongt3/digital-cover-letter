@@ -18,21 +18,6 @@ phone: 732-567-5804 (optional)
 # Dark Mode (true/false/never)
 darkmode: false
 
-# Social links
-# twitter_username: jekyllrb
-# github_username:  jekyll
-# stackoverflow_username: "00000001"
-# dribbble_username: jekyll
-# facebook_username: jekyll
-# flickr_username: jekyll
-# instagram_username: jekyll
-# linkedin_username: jekyll
-# xing_username: jekyll
-# pinterest_username: jekyll
-# youtube_username: jekyll
-# googleplus_username: +jekyll
-# orcid_username: 0000-0000-0000-0000
-
 # Additional icon links
 # additional_links:
 # - title: Link name
@@ -78,19 +63,19 @@ content:
     layout: list
     content:
       - layout: right
-        title: Company name
-        sub_title: Job title
-        caption: Date Range (eg. November 2016 - present)
-        link: Link to company (optional)
-        quote: >
-          Short description of the company (optional)
+        title: Lockheed Martin
+        sub_title: Systems Engineer
+        caption: May 2018 - Present
+        link: https://www.lockheedmartin.com/en-us/index.html
+#         quote: >
+#           Short description of the company (optional)
         description: | # this will include new lines to allow paragraphs
           Description of role
   - title: Education
     layout: list
     content:
       - layout: top-right
-        title: Institution name
+        title: Rowan University
         sub_title: Qualifications (eg. BA Performing Arts)
         caption: Date Range (eg. 2016 - 2019)
         quote: >
