@@ -93,6 +93,7 @@ content:
     content: | # this will include new lines to allow paragraphs
       - **Machine Learning Frameworks:** PyTorch, Sklearn, Keras, Tensorflow
       - **Programming Languages:** Python, C++, Java
+      - **Industry Software:** JIRA, Doors, Github, Cameo, Linux, Spice, Microsoft Office Suite
 # Footer
 footer_show_references: true
 # references_title: References on request (Override references text)
