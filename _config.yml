@@ -38,14 +38,16 @@ about_title: Profile # (Use this to override about section title)
 about_profile_image: Directory of profile image (eg. images/profile.jpg)
 about_content: | # this will include new lines to allow paragraphs
   Professional Systems Engineer with industry experience and currently pursuing a M.S. in Electrical and Computer Engineering with a focus in machine learning. 
-  Expert grasp of engineering design cycle from ConOps, initial design studies, risk mitigation/design optimization, writing requirements, to testing and evaluation. 
+  Expert grasp of engineering design cycle from ConOps, initial design studies, risk mitigation/design optimization, writing requirements, to testing and evaluation.
+  Leadership and collaborative working with different business areas within Lockheed and with competitors on a government contract. Strong software skills from developing
+  and maintaining our simulation
 
 content:
   - title: Projects # Title for the section
     layout: list # Type of content section (list/text)
     content:
       - layout: left
-        title: Project name
+        title: VDP
         link: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
         link_text: Link Text
         additional_links:
@@ -83,17 +85,15 @@ content:
       - layout: top-right
         title: Rowan University
         sub_title: B.S. Electrical and Computer Engineering 
-        sub_sub_title: Minor in Computer Science
         caption: 2016 - 2020
         description: | # this will include new lines to allow paragraphs
           Description of qualification
-  - title: A Little More About Me
-    layout: text
-    content: | # this will include new lines to allow paragraphs
-      This is where you can write a little more about yourself. You could title this section **Interests** and include some of your other interests.
-
-      Or you could title it **Skills** and write a bit more about things that make you more desirable, like *leadership* or *teamwork*
-
+  - title: Skills and Proficiency
+    layout: list
+    content: 
+      - **Machine Learning Frameworks** ": PyTorch, Sklearn, Keras, Tensorflow"
+      - "Programming Languages: Python, C++, Java"
+      - 
 # Footer
 footer_show_references: true
 # references_title: References on request (Override references text)
