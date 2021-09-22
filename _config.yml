@@ -90,7 +90,7 @@ content:
           Description of qualification
   - title: Skills and Proficiency
     layout: list
-    content: 
+    content: |
       - "Machine Learning Frameworks: PyTorch, Sklearn, Keras, Tensorflow"
       - "Programming Languages: Python, C++, Java"
       - 
