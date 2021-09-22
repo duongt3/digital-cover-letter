@@ -91,9 +91,8 @@ content:
   - title: Skills and Proficiency
     layout: text
     content: | # this will include new lines to allow paragraphs
-      - "Machine Learning Frameworks: PyTorch, Sklearn, Keras, Tensorflow"
-      - "Programming Languages: Python, C++, Java"
-      - 
+      - **Machine Learning Frameworks:** PyTorch, Sklearn, Keras, Tensorflow
+      - **Programming Languages:** Python, C++, Java
 # Footer
 footer_show_references: true
 # references_title: References on request (Override references text)
