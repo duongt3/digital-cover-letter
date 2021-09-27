@@ -64,30 +64,36 @@ content:
   - title: Experience
     layout: list
     content:
-      - layout: right
+      - layout: left
         title: Lockheed Martin
         sub_title: Systems Engineer
         caption: May 2018 - Present
-        link: https://www.lockheedmartin.com/en-us/index.html
+#         link: https://www.lockheedmartin.com/en-us/index.html
 #         quote: >
 #           Short description of the company (optional)
         description: | # this will include new lines to allow paragraphs
-          Description of role
+          Worked as a Systems Engineer in the Weapon Control Systems Department performing the following responsibilities:
+          - Design and model solutions to meet customers need
+          - Write white papers to document design 
+          - Write system level requirements
+          - Test and Evaluate requirements through data analysis and code verification
+          - Write problem reports and evaluate risk
+          - Verify Software Changes Requests
   - title: Education
     layout: list
     content:
-      - layout: top-right
+      - layout: left
         title: Rowan University
         sub_title: M.S. Electrical and Computer Engineering
         caption: 2020 - 2022
-        description: | # this will include new lines to allow paragraphs
-          Description of qualification
-      - layout: top-right
+#         description: | # this will include new lines to allow paragraphs
+#           Description of qualification
+      - layout: left
         title: Rowan University
         sub_title: B.S. Electrical and Computer Engineering 
         caption: 2016 - 2020
-        description: | # this will include new lines to allow paragraphs
-          Description of qualification
+#         description: | # this will include new lines to allow paragraphs
+#           Description of qualification
   - title: Skills and Proficiency
     layout: text
     content: | # this will include new lines to allow paragraphs
